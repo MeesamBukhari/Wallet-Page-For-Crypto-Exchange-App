@@ -43,7 +43,7 @@
 
   
   
-<h2>🧐 Features</h2>
+<h2 id="features">🧐 Features</h2>
 
 Here are some of the project's best features:
 
@@ -52,7 +52,7 @@ Here are some of the project's best features:
 *   Display of total balance
 *   List of recent transactions
 
-<h2>🛠️ Installation Steps:</h2>
+<h2 id="installation-steps">🛠️ Installation Steps:</h2>
 
 <p>1. Clone the repository:</p>
 
@@ -78,7 +78,7 @@ npm install
 npm run build
 ```
 
-## 👨‍💻 Author
+<h2 id="author">👨‍💻 Author</h2>
 
 👤 **Meesam Bukhari**
 
@@ -86,6 +86,6 @@ npm run build
 * Github: [@MeesamBukhari](https://github.com/MeesamBukhari)
 * LinkedIn: [@MeesamBukhari](https://linkedin.com/in/MeesamBukhari)
 
-<h2>🛡️ License:</h2>
+<h2 id="license">🛡️ License</h2>
 
 This project is licensed under the ISC
