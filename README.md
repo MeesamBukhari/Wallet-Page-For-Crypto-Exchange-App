@@ -20,15 +20,14 @@
 
 ## Table of Contents
 
-- [Demo](#Demo)
+- [Demo](#demo)
+- [Project Screenshots](#project-screenshots)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Installation Steps](#installation-steps)
 - [Author](#author)
+- [License](#license)
 
-<h2>🚀 Demo</h2>
+<h2 id="demo">🚀 Demo</h2>
 
 <!-- [Live Demo](https://crypto-wallet-mb.vercel.app/)* -->
 
@@ -36,7 +35,7 @@
     <img alt="Live Demo" src="https://img.shields.io/badge/Live_Demo-blue" target="_blank"/>
 </a>
 
-<h2>Project Screenshots:</h2>
+<h2 id="project-screenshots">Project Screenshots:</h2>
 
 <img src="https://i.imghippo.com/files/JcLRU1721730770.png" alt="project-screenshot" width="1338" height="755/">
 
