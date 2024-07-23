@@ -20,6 +20,7 @@
 
 ## Table of Contents
 
+- [Introduction](#title)
 - [Demo](#demo)
 - [Project Screenshots](#project-screenshots)
 - [Features](#features)
