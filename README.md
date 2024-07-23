@@ -20,7 +20,7 @@
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Demo](#Demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
