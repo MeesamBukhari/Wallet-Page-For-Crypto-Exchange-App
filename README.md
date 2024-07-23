@@ -18,7 +18,7 @@
   </a>
 </p>
 
-## Table of Contents
+## 📄 Table of Contents
 
 - [Introduction](#title)
 - [Demo](#demo)
@@ -36,7 +36,7 @@
     <img alt="Live Demo" src="https://img.shields.io/badge/Live_Demo-blue" target="_blank"/>
 </a>
 
-<h2 id="project-screenshots">Project Screenshots:</h2>
+<h2 id="project-screenshots">📸 Project Screenshots:</h2>
 
 <img src="https://i.imghippo.com/files/3Kjjn1721735884.png" alt="project-screenshot">
 
