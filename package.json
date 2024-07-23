@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "tailwind.config.js",
   "scripts": {
-    "build": "npx tailwindcss -i ./src/input.css -o ./src/output.css"
+    "build": "npx tailwindcss -i ./src/input.css -o ./public/output.css"
   },
   "keywords": [
     "wallet",
