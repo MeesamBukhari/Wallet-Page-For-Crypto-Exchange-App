@@ -38,9 +38,9 @@
 
 <h2 id="project-screenshots">Project Screenshots:</h2>
 
-<img src="https://i.imghippo.com/files/JcLRU1721730770.png" alt="project-screenshot" width="1338" height="755/">
+<img src="https://i.imghippo.com/files/3Kjjn1721735884.png" alt="project-screenshot">
 
-<img src="https://i.imghippo.com/files/CPOe71721730823.png" alt="project-screenshot" width="1338" height="755/">
+<img src="https://i.imghippo.com/files/Q82Ss1721735898.png" alt="project-screenshot">
 
   
   
