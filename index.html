@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="src/output.css" rel="stylesheet" />
+    <title>Crypto Wallet</title>
+    <!-- Favicons -->
+    <link
+      rel="apple-touch-icon"
+      sizes="76x76"
+      href="src/favicons/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="src/favicons/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="src/favicons/favicon-16x16.png"
+    />
+    <link rel="manifest" href="src/favicons/site.webmanifest" />
+    <link
+      rel="mask-icon"
+      href="src/favicons/safari-pinned-tab.svg"
+      color="#ffffff"
+    />
+    <link rel="shortcut icon" href="src/favicons/favicon.ico" />
+    <meta name="msapplication-TileColor" content="#ffc40d" />
+    <meta
+      name="msapplication-config"
+      content="src/favicons/browserconfig.xml"
+    />
+    <meta name="theme-color" content="#ffffff" />
+  </head>
+  <body>
+    <div
+      class="flex flex-col items-center justify-center min-h-screen p-6 bg-gray-100 dark:bg-gray-900"
+    >
+      <h1 class="mb-6 text-4xl font-extrabold text-gray-900 dark:text-white">
+        My Wallet
+      </h1>
+
+      <div
+        class="w-full max-w-md p-6 bg-white border border-gray-200 rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700"
+      >
+        <h2 class="mb-4 text-2xl font-bold text-gray-900 dark:text-white">
+          Balance
+        </h2>
+        <p class="mb-2 text-xl font-semibold text-gray-800 dark:text-gray-200">
+          $12,345.67
+        </p>
+        <p class="text-gray-500 dark:text-gray-400">Total Balance in USD</p>
+      </div>
+
+      <div
+        class="w-full max-w-md mt-6 bg-white border border-gray-200 rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700"
+      >
+        <h2 class="p-4 text-xl font-bold text-gray-900 dark:text-white">
+          Recent Transactions
+        </h2>
+        <ul class="divide-y divide-gray-200 dark:divide-gray-700">
+          <li class="flex justify-between p-4">
+            <span class="text-gray-700 dark:text-gray-300"
+              >Bitcoin Purchase</span
+            >
+            <span class="text-green-600 dark:text-green-400">+$500.00</span>
+          </li>
+          <li class="flex justify-between p-4">
+            <span class="text-gray-700 dark:text-gray-300">Ethereum Sale</span>
+            <span class="text-red-600 dark:text-red-400">-$200.00</span>
+          </li>
+          <li class="flex justify-between p-4">
+            <span class="text-gray-700 dark:text-gray-300"
+              >Litecoin Transfer</span
+            >
+            <span class="text-green-600 dark:text-green-400">+$150.00</span>
+          </li>
+        </ul>
+      </div>
+
+      <div class="flex justify-between w-full max-w-md mt-6">
+        <a
+          href="#"
+          class="inline-flex items-center justify-center px-4 py-2 text-base font-medium text-white bg-blue-600 rounded-lg hover:bg-blue-700 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900"
+          >Deposit</a
+        >
+        <a
+          href="#"
+          class="inline-flex items-center justify-center px-4 py-2 text-base font-medium text-white bg-red-600 rounded-lg hover:bg-red-700 focus:ring-4 focus:ring-red-300 dark:focus:ring-red-900"
+          >Withdraw</a
+        >
+      </div>
+    </div>
+
+    <footer class="text-center">
+      <p
+        class="py-2 text-darkTangerine bg-midnightExpress dark:bg-darkTangerine dark:text-midnightExpress font-bold"
+      >
+        &copy; <span id="year">2024</span>
+        <a
+          href="https://linkedin.com/in/MeesamBukhari/"
+          class="hover:text-pumpkin dark:hover:text-desaturatedPink"
+          target="_blank"
+          >Meesam Bukhari</a
+        >
+
+        | All Rights Reserved
+      </p>
+    </footer>
+  </body>
+</html>
