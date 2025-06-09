@@ -5,7 +5,7 @@
 <p id="description">A responsive wallet page for a crypto exchange app, showcasing recent transactions and balance information, built with Tailwind CSS. Includes dark mode support and optimized for modern web development practices.</p>
 
 <p align="center"><img src="https://img.shields.io/badge/Meesam_Bukhari-GitHub-red?style=for-the-badge&amp;labelColor=dark%20blue&amp;color=gold&amp;link=https%3A%2F%2Fgithub.com%2FMeesamBukhari" alt="shields"></p>
-
+  
 <p align="center">
   <a href="https://github.com/MeesamBukhari/Wallet-Page-For-Crypto-Exchange-App/blob/master/LICENSE.txt">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-red.svg" target="_blank" />
