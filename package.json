@@ -12,7 +12,7 @@
     "tailwindcss",
     "dark mode",
     "responsive"
-  ],
+  ], 
   "author": "Meesam Bukhari",
   "license": "ISC",
   "description": "A simple wallet page for a crypto exchange app built with Tailwind CSS",
