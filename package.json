@@ -4,7 +4,7 @@
   "main": "tailwind.config.js",
   "scripts": {
     "build": "npx tailwindcss -i ./src/input.css -o ./public/output.css"
-  },
+  }, 
   "keywords": [
     "wallet",
     "crypto",
